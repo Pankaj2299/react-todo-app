@@ -40,7 +40,7 @@ This project demonstrates important React concepts:
 - Dynamic rendering  
 
 ---
-
+---bash
 ## 📂 Project Structure
 
 src/
@@ -56,7 +56,7 @@ src/
 
 ├── App.js                   # Main application component  
 └── index.js                 # Entry point  
-
+---
 ---
 
 ## ⚙️ Installation & Setup
