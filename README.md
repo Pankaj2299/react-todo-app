@@ -87,8 +87,8 @@ npm start
 
 ### 5. Open in Browser
 
-```bash
-http://localhost:3000
+```
+http://localhost:5173
 ```
 
 ---
@@ -109,7 +109,9 @@ http://localhost:3000
 **Pankaj Kumar**
 
 📧 Email: Pankajkumar199922@gmail.com
+<br>
 🔗 GitHub: https://github.com/Pankaj2299
+<br>
 🔗 LinkedIn: https://www.linkedin.com/in/pankaj-kumar-4b3276266
 
 ---
