@@ -40,7 +40,7 @@ This project demonstrates important React concepts:
 - Dynamic rendering  
 
 ---
----bash
+```bash
 ## 📂 Project Structure
 
 src/
@@ -56,30 +56,40 @@ src/
 
 ├── App.js                   # Main application component  
 └── index.js                 # Entry point  
----
+```
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/your-username/react-todo-app.git
+```
 
 ### 2. Navigate to the Project Folder
 
+```bash
 cd react-todo-app
+```
 
 ### 3. Install Dependencies
 
+```bash
 npm install
+```
 
 ### 4. Run the Development Server
 
+```bash
 npm start
+```
 
 ### 5. Open in Browser
 
+```bash
 http://localhost:3000
+```
 
 ---
 
