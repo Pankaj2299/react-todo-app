@@ -98,9 +98,9 @@ http://localhost:3000
 
 **Pankaj Kumar**
 
-📧 Email:  
-🔗 GitHub:  
-🔗 LinkedIn:  
+📧 Email: Pankajkumar199922@gmail.com
+🔗 GitHub: https://github.com/Pankaj2299
+🔗 LinkedIn: https://www.linkedin.com/in/pankaj-kumar-4b3276266
 
 ---
 
