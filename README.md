@@ -64,7 +64,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/Pankaj2299/react-todo-app.git
 ```
 
 ### 2. Navigate to the Project Folder
