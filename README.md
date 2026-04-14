@@ -54,8 +54,8 @@ src/
 │   ├── TodoContext.js       # Global state management  
 │   └── index.js             # Exports context  
 
-├── App.js                   # Main application component  
-└── index.js                 # Entry point  
+├── App.jsx                   # Main application component  
+└── main.jsx                 # Entry point  
 ```
 ---
 
